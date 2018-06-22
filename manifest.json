@@ -1,6 +1,6 @@
 {
-  "name": "zalonin-merchant-app",
-  "short_name": "zalonin-merchant-app",
+  "name": "zalonin merchant",
+  "short_name": "merchant",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
