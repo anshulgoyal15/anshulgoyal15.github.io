@@ -8,7 +8,7 @@
       "updateMode": "prefetch",
       "urls": [
         "/index.html",
-        "/main.388aee8b269478fe4bd0.js",
+        "/main.91464052ce1ee2487394.js",
         "/polyfills.2f4a59095805af02bd79.js",
         "/runtime.a66f828dca56eeb90e02.js",
         "/styles.e26db0e04aa3088f06f5.css"
@@ -28,7 +28,8 @@
         "/assets/icons/icon-384x384.png",
         "/assets/icons/icon-512x512.png",
         "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "/assets/icons/icon-96x96.png",
+        "/assets/profile.jpg"
       ],
       "patterns": []
     }
@@ -44,8 +45,9 @@
     "/assets/icons/icon-512x512.png": "e6f5a96c3bb60751995a8769616a08e7cb128b56",
     "/assets/icons/icon-72x72.png": "1698d0d723c9cddc85c25c375d00d329908f15cf",
     "/assets/icons/icon-96x96.png": "07451a9b5b6a86530acd41e7e85309da542df3cd",
-    "/index.html": "2db1e73e8c7ec1c319576606aaefbee0efef229a",
-    "/main.388aee8b269478fe4bd0.js": "91edc4425aa838e13100688af00676d1fb695a6d",
+    "/assets/profile.jpg": "35e86284335cdddf9ca62cbd053b86a95bfba225",
+    "/index.html": "5a2f1629e860142eb38678dc08cebf0502b65aed",
+    "/main.91464052ce1ee2487394.js": "18994399978dc5e20879d8936df2980c508b6e7b",
     "/polyfills.2f4a59095805af02bd79.js": "8949bb1b1e302dda246f6ed9c2da703270360b1f",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/styles.e26db0e04aa3088f06f5.css": "e855478a2691f16c7f2e303734c1b7c40805842e"
