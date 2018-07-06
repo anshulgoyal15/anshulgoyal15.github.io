@@ -8,10 +8,10 @@
       "updateMode": "prefetch",
       "urls": [
         "/index.html",
-        "/main.c46d4ee869207a6c6d38.js",
+        "/main.ad8d905fd3c7c5e132a9.js",
         "/polyfills.7a0e6866a34e280f48e7.js",
         "/runtime.a66f828dca56eeb90e02.js",
-        "/styles.842dc747f1efea05c538.css"
+        "/styles.7ac2437b9f4f721dde1b.css"
       ],
       "patterns": []
     },
@@ -20,6 +20,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/assets/Sanju_(RdxHD.Com).mp4",
         "/assets/icon.png",
         "/assets/icons/icon-128x128.png",
         "/assets/icons/icon-144x144.png",
@@ -36,6 +37,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/assets/Sanju_(RdxHD.Com).mp4": "68576bc6a50361a4123b1f5b4e8bf233bfa3e1da",
     "/assets/icon.png": "3deae28386f146a01f8f28d4dafc5b071ba19b5b",
     "/assets/icons/icon-128x128.png": "c29d1ae7ff200959d9f1b7f304bf4a14b996b4bb",
     "/assets/icons/icon-144x144.png": "02b0d6d59c8587ad5633244765af28dd5e30b7db",
@@ -46,11 +48,11 @@
     "/assets/icons/icon-72x72.png": "1698d0d723c9cddc85c25c375d00d329908f15cf",
     "/assets/icons/icon-96x96.png": "07451a9b5b6a86530acd41e7e85309da542df3cd",
     "/assets/profile.jpg": "35e86284335cdddf9ca62cbd053b86a95bfba225",
-    "/index.html": "261261b5faee0a242103485935d1eb903c84761d",
-    "/main.c46d4ee869207a6c6d38.js": "190be60d15e8b3bbf642f691cab8b9ea7c05ed60",
+    "/index.html": "f619f802c3dd28ad10152d1c9cbe3a141d3f95ce",
+    "/main.ad8d905fd3c7c5e132a9.js": "d7b449dc5fd48b369a1fefc6ea7a43e826a1c1df",
     "/polyfills.7a0e6866a34e280f48e7.js": "9f0b8341c0a0caec1581da2f255eb5dbb8e12303",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
-    "/styles.842dc747f1efea05c538.css": "15660f8d6241eb33913f753b4748ede0a37dba3e"
+    "/styles.7ac2437b9f4f721dde1b.css": "bb785d0fc2343b4c565d4b14b6d14e352e923b4d"
   },
   "navigationUrls": [
     {
