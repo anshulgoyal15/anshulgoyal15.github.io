@@ -1849,7 +1849,7 @@ class Driver {
         this.scope.addEventListener('fetch', (event) => this.onFetch(event));
         this.scope.addEventListener('message', (event) => this.onMessage(event));
         this.scope.addEventListener('push', (event) => this.onPush(event));
-        this.scope.addEventListener('notificationclick', (event) => {
+         this.scope.addEventListener('notificationclick', (event) => {
     console.log('[Service Worker] Notification click Received. event', event);
     event.notification.close();
     if (clients.openWindow && event.notification.data.url) {
